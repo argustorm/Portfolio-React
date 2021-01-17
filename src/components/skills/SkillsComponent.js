@@ -11,8 +11,8 @@ const SkillsComponent = () => {
                         <div className="column left">
                             <div className="text">Mi experiencia</div>
                             <p>
-                                Hace 1 año que me gradué como desarrollador de aplicaciones multiplataforma "DAM",
-                                desde entonces, he seguido aprendiendo de forma autodidacta mediante cursos online.
+                                Hace 1 año que me gradué como desa&shy;rrollador de aplicaciones multi&shy;plataforma "DAM",
+                                desde entonces, he seguido apren&shy;diendo de forma auto&shy;didacta mediante cursos online.
                                 <br/>También he tenido el placer de trabajar junto a profesionales y aprender mucho de ellos.
                                 
                             </p>

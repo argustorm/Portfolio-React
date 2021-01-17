@@ -5,7 +5,7 @@ const FooterComponent = () => {
         <div>
             {/* FOOTER */}
             <footer>
-                <p>Óscar Silla | <span className="far fa-copyright"></span> 2020</p>
+                <p>Óscar Silla | <span className="far fa-copyright"></span> 2021</p>
             </footer>
         </div>
     )

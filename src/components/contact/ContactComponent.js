@@ -35,14 +35,14 @@ const ContactComponent = () => {
                                 <div className="row">
                                     <i className="fas fa-user"></i>
                                     <div className="info">
-                                        <div className="head name">Name</div>
+                                        <div className="head name">Nombre</div>
                                         <div className="sub-title">Óscar Silla</div>
                                     </div>
                                 </div>
                                 <div className="row">
                                     <i className="fas fa-map-marker-alt"></i>
                                     <div className="info">
-                                        <div className="head address">Address</div>
+                                        <div className="head address">Dirección</div>
                                         <div className="sub-address">Valencia, España</div>
                                     </div>
                                 </div>

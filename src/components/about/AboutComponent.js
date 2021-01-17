@@ -14,11 +14,11 @@ const AboutComponent = () => {
                             <img alt='img' src="../assets/model1.jpg" />
                         </div>
                         <div className="column right">
-                            <div className="text">Soy Óscar y soy <span>Desarrollador Frontend</span></div>
+                            <div className="text">Óscar Silla <span>Desarrollador Frontend</span></div>
                             <p>
                                 Soy un joven de 21 años apasionado
                                 por mundo de la informática y
-                                nuevas tecnologías.
+                                nuevas tec&shy;nologías.
                                 Resido en Valencia y me considero
                                 una persona con valores, organizada
                                 y muy trabajadora.
@@ -27,10 +27,10 @@ const AboutComponent = () => {
                                 tengo ganas de aprender algo
                                 nuevo.
                             </p>
-                            <a href="assets/downloads/oscarsilla.pdf"
+                            <a href="https://drive.google.com/file/d/1_3aBcp7Ft51uzbCIxjg86J5a0PNXMxX6/view?usp=sharing"
                                 download="oscarsilla.pdf"
                             >
-                                Descargar CV
+                                Curriculum Vitae
                             </a>
                         </div>
                     </div>
